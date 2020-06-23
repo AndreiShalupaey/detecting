@@ -1,6 +1,6 @@
 # detecting
 
-pip install imutil
+pip install imutils
 
 pip install opencv-contrib-python
 
